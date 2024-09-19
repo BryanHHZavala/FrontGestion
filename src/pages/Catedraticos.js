@@ -14,6 +14,8 @@ import {
 } from "reactstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
+//! probando git
+
 const Catedraticos = () => {
   const [catedraticos, setCatedraticos] = useState([]);
   const [filteredCatedraticos, setFilteredCatedraticos] = useState([]);
